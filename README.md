@@ -1,4 +1,4 @@
-# fluttter_website
+# Animated text flutter website
 
 Little bit playgorund
 
